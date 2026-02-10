@@ -1,0 +1,102 @@
+           _      _____ ______ _   _   _    _           _____   ____  ______ ______ _   _   _  _______ _      _      ______ _____ 
+     /\   | |    |_   _|  ____| \ | | | |  | |   /\    / ____| |  _ \|  ____|  ____| \ | | | |/ /_   _| |    | |    |  ____|  __ \
+    /  \  | |      | | | |__  |  \| | | |__| |  /  \  | (___   | |_) | |__  | |__  |  \| | | ' /  | | | |    | |    | |__  | |  | |
+   / /\ \ | |      | | |  __| | . ` | |  __  | / /\ \  \___ \  |  _ <|  __| |  __| | . ` | |  <   | | | |    | |    |  __| | |  | |
+  / ____ \| |____ _| |_| |____| |\  | | |  | |/ ____ \ ____) | | |_) | |____| |____| |\  | | . \ _| |_| |____| |____| |____| |__| |
+ /_/    \_\______|_____|______|_| \_| |_|  |_/_/    \_\_____/  |____/|______|______|_| \_| |_|\_\_____|______|______|______|_____/
+                                                                                                                                          
+                                                                                                                                          
+                                                                             ..:^~~!7?JJYY5PPPPPPGGGGGGGPPPPP5YYJ??7!~^^:..                                                                             
+                                                                     ..:^~!?JY5PPGGGGBBBBBGBBGGGGGGGGGGGGGGGGGGBGGGGGGGGP5YJ?7~^:..                                                                     
+                                                                .:~7?Y5PGGGGGBBBGBGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGBGGGGGBBGGP5Y?7~:.                                                                
+                                                           .^!?YPPGGGBBBBGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGBBBBBGGGGPY?!^:                                                           
+                                                      .:~?YPGGGGBBGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGBBBGGPY?~:.                                                      
+                                                  .:~?5PGGBBBGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGBBBGPY?!:.                                                  
+                                               :~?YPGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGBBBGY?~:                                               
+                                            :!JPGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBGGGGGBBBGGGGGGGGGGGGGGGGGGGGGGBGBGGPJ!:.                                           
+                                        .:!YPGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGBBBBBBGGP55YJJ?77!!!~~~~~~~~~!!77?JJY55PGGBBBGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGBBBGPY7:.                                        
+                                      :!YPGGGGGGGGGGGGGGGGGGGGGGGGGGGBBBBBGP5YJ7!~^:..                            ..:^~!7JYPGGBBBBBBGGGGGGGGGGGGGGGGGGGGGGGGGGPY!:                                      
+                                   .~JPGGGGGGGGGGGGGGGGGGGGGGGGGBBBBGG5J7~^:.                                              .:^!?J5GBBBBGGGGGGGGGGGGGGGGGGGGGGBBGGPJ~.                                   
+                                 :75GGBGGGGGGGGGGGGGGGGGGGGGGBBBG5J7~:.                                                          .:^7J5GBGBBGGGGGGGGGGGGGGGGGGGGGGGG57^                                 
+                               ^JPGGGGGGGGGGGGGGGGGGGGGGGBBBGY?~:.                                                                    .:~?YGBBBGGGGGGGGGGGGGGGGGGGGBGGPJ^.                              
+                            .~YGGGGGGGGGGGGGGGGGGGGGGBBBG5?~:.                                                                            .:~?5GGGGGGGGGGGGGGGGGGGGGGGGGGY~.                            
+                          .!YGGGGGGGGGGGGGGGGGGGGGBBBPY7:.                        .:^~!7?JY55PPGGGGGGGGGGPP55YJ?7!~^:.                        .:7YPGGGGGGGGGGGGGGGGGGGGGGGGY!.                          
+                        .!YGGGGGGGGGGGGGGGGGGGGGBBGY!:                     .^!?YPG#&&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&#GPY?!^.                    ~PBGGGGGGGGGGGGGGGGGGGGGGGGGY!.                        
+                      .~YGGGGGGGGGGGGGGGGGGGGBBG57:                   .^7JG#&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&#GY7^.             ~YGBGGGGGGGGGGGGGGGGGGGGGGGGGGBGY~.                      
+                     ^JGGGGGGGGGGGGGGGGGGGGGBPJ^                   ^75B&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&#57^.       ^YGBGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGJ^                     
+                   :7PGGGGGGGGGGGGGGGGGGGBG57:                  ~JG&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&BJ~   ^JGBGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGP7.                   
+                  ~YGGGGGGGGGGGGGGGGGGGGGY~.                 :?G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&G??GBGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGBGGGGY~.                 
+                .?PGGGGGGGGGGGGGGGGGGGGY~.                 ^Y&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&#BBBGGGGGGGGGGGGGGGGGGBBGGBGGGGGGGGGGGGGGGGGGP?.                
+               ^YGGGGGGGGGGGGGGGGGGBB5~.                 ^5&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&#BGGGGGGGGGGGGGGGGGGGGGBG?^~5BGGGGGGGGGGGGGGGGGGGY^               
+              !PGGGGGGGGGGGGGGGGGGBP!                  .Y&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&#BGGGGGGGGGGGGGGGGGGGGGBGJ^   .!PBGGGGGGGGGGGGGGGGGGP!              
+            .?GGGGGGGGGGGGGGGGGGBG?.                  !B@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&#BGGGGGGGGGGGGGGGGGGGGGBGY^       .?GGGGGGGGGGGGGGGGGGGG?.            
+           :JGGGGGGGGGGGGGGGGGGB5^                   J&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#BGGGGGGGGGGGGGGGGGGGGGGGY^. .        ^5BGGGGGGGGGGGGGGGGGGY:           
+        . :YGGGGGGGGGGGGGGGGGBG7.                  .5@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&&BGGGGGGGGGGGGGGGGGGGGGBB5~              .?GBGGGGGGGGGGGGGGGGGY:          
+        .:5GGGGGGGGGGGGGGGGGGP~                   .P@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&BGGGGGGGGGGGGGGGGGGGGGGB5~.                 ~PBGGGGGGGGGGGGGGGGG5^         
+        :5GBGGGGGGGGGGGGGGGBY:                   .P@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#BGGGGGGGGGGGGGGGGGGGGGGGB#P.                   :YBGGGGGGGGGGGGGGGGG5:        
+       :5GGGGGGGGGGGGGGGGGBJ.                   .Y@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&BGGGGGGGGGGGGGGGGGGGGGGGB#&@@Y                    .JBGGGGGGGGGGGGGGGGG5:       
+      .YGGGGGGGGGGGGGGGGGB?.                    7@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&BGGGGGBBGGGGGGGGGGGGGGGGB#&@@@@@!                     ?GGGGGGGGGGGGGGGGGGY.      
+     .JGGGGGGGGGGGGGGGGBG7                     :B@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&#BGGGGGGGGGGGGGGGGGGGGGGB#&@@@@@@@#.                    .7GBGGGGGGGGGGGGGGGGJ.     
+     !GGGGGGGGGGGGGGGGGB7.                     J@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&#BGGGGGGGGGGGGGGGGGGGGGGB#&@@@@@@@@@@J                    . ?BGGGGGGGGGGGGGGGGP7     
+   .^PGGGGGGGGGGGGGGGGBJ.                     :#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&#BGGGGGGGGGGGGGGGGGGGGGGG#&@@@@@@@@@@@@B.                     .JBGGGGGGGGGGGGGBGGP^    
+   .YGGGGGGGGGGGGGGGGBY.                      7@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&#BGGGGGGGGGGGGGGGGGGGGGGBB&@@@@@@@@@@@@@@@7                      .YBGGGGGGGGGGGGGGGGY.   
+   !GGGGGGGGGGGGGGGGBP:.                      P@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#BGGGGGGGGGGGGGGGGGGGGGGGB&@@@@@@@@@@@@@@@@@P                       :PBGGGGGGGGGGGGGGGG!   
+  :5GGGGGGGGGGGGGGGGB~                       .#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&#BGGGGGGGGGGGGGGGGGGGGGGGB&&@@@@@@@@@@@@@@@@@@#.                       !GGGGGGGGGGGGGGGGG5:. 
+  7GGGGGGGGGGGGGGGGBY                        ^&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&#BGGBBGGGGGGGGGGGGGGGGGGGB&@@@@@@@@@@@@@@@@@@@@@@^                       .JBGGGGGGGGGGGGGGGG?..
+.:5GGGGGGGGGGGGGGGGG^                        !@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#BGGGGGGGGGGGGGGGGGGGGGGGB#@@@@@@@@@@@@@@@@@@@@@@@@!                        ^GBGGGGGGGGGGGGGBG5: 
+ !GGGGGGGGGGGGGGGGBJ.                        ?@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#BGGGGGGGGGGGGGGGGGGGGGGGB#&@@@@@@@@@@@@@@@@@@@@@@@@@J                       ..JBGGGGGGGGGGGGGGGG! 
+.JGGGGGGGGGGGGGGGGG^                         G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&BBGGGGGGGGGGGGGGGGGGGGGGB#@@@@@@@@@@@@@@@@@@@@@@@@@@@@G                         ^GGGGGGGGGGGGGGGGGJ.
+^PGGGGGGGGGGGGGGGBY..                       ~@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&BGGGGGGGGGGGGGGGGGGGGGGGB#&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@~                         YGGGGGGGGGGGGGGGG5:
+!PGGGGGGGGGGGGGGGB7                        .G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&#GGGGGGGGGGGGGGGGGGGGGGGB#&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@G.                        7BGGGGGGGGGGGGGGGG!
+JGGGGGGGGGGGGGGGGG^                        ?@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&#BGGBGGGGGGGGGGGGGGGGGGGB#&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@7                        ^GGGGGGGGGGGGGGGGG?
+YGGGGGGGGGGGGGGGGP:                       .#@@@@@@@&GY?7!77?JYPB#&@@@@@@@@@@@@@@@@@@@@@@@@@&#BGGGGGGGGGGGGGGGGGGGGGGB#&@@@@@@@@@@@@@@@&#GPYJ?77!7?YG&@@@@@@@#:                       :PGGGGGGGGGGGGGGGGY
+5GGGGGGGGGGGGGGGB5.                       ?@@@@@@B?:           .:^!?5G&@@@@@@@@@@@@@@@@@@&#BGGGGGGGGGGGGGGGGGGGGGGB#&@@@@@@@@@@@@#GY7~:.           .^J#@@@@@@?                       .YBGGGGGGGGGGGGGGG5
+PGGGGGGGGGGGGGGGBY                       .G@@@@@Y.                   .:~?P#&@@@@@@@@@@@&#BGGGGGGGGGGGGGGGGGGGGGGBB&@@@@@@@@@&B5?~.                    :G@@@@@G.                       JBGGGGGGGGGGGGGGGP
+PGGGGGGGGGGGGGGGBJ                       ^&@@@@5                          .^7P#@@@@@@&#BGGGGGGGGGGGGGGGGGGGGGGBB&@@@@@@@&B57:                          .B@@@@&^                       JBGGGGGGGGGGGGGGGP
+PGGGGGGGGGGGGGGGBJ                       !@@@@&^                              .~YB&&&BBGGGGGGGGGGGGGGGGGGGGGGB&@@@@@@&GJ^.                              7@@@@@!                       JBGGGGGGGGGGGGGGGP
+PGGGGGGGGGGGGGGGBY                       ?@@@@B.                                 .?BGGGGGGGGGGGGGGGGGGGGGGGB&&@@@@@G?^                                  :&@@@@7                       JBGGGGGGGGGGGGGGGP
+5GGGGGGGGGGGGGGGBY.                      ?@@@@B                                 ~YGGGGGGGGGGGGGGGGGGGGGGGB#&@@@@#Y~                                     ^&@@@@?                      .YBGGGGGGGGGGGGGGG5
+YGGGGGGGGGGGGGGGBP.                      !@@@@&:                              ^YGGGGGGGGGGGGGGGGGGGGGGGB#&@@@@B?.                                       !@@@@@!                      .PBBGGGGGGGGGGGGGGY
+JGGGGGGGGGGGGGGGGG^                      ^&@@@@?                            ^JGGGGGGGGGGGGGGGGGGGGGGGB#&@@@@&J:                                         5@@@@&^                      ^GGGGGGGGGGGGGGGGGJ
+!PGGGGGGGGGGGGGGGB7                     ..G@@@@#:                         ^JGGGGGGGGGGGGGGGGGGGGGGGB#&@@@@@B~                                          ~&@@@@G                       7BGGGGGGGGGGGGGGGG!
+:PGGGGGGGGGGGGGGGB5.                    . 7@@@@@P.                      :?GBGGGGGGGGGGGGGGGGGGGGGB#&@@@@@@G:                                          :B@@@@@7                       5BGGGGGGGGGGGGGGGP:
+.JGGGGGGGGGGGGGGGGG^                       G@@@@@5                    :?GBGGGGGGGGGGGGGGGGGGGGGB#&@@@@@@@&~ .                                        :G@@@&@G.                      ^GGGGGGGGGGGGGGGGGY.
+ !GGBGGGGGGGGGGGGGBJ.                      ^#@@@@@5.                :?PBGGGGGGGGGGGGGGGGGGGBBGB&@@@@@@@@@#.                                         ^G@@@@@#^                     ..JBGGGGGGGGGGGGGGGP! 
+ :5GGGGGGGGGGGGGGGGG^                       !&@@@@@G^             :7PBGGGGGGGGGGGGGGGGGGGBBGJY&@@@@@@@@@@@~                                        !#@@@@@&!                       ^GBGGGGGGGGGGGGGBG5: 
+  7GGGGGGGGGGGGGBGGBY                        !#@@@@@&?.         .7PBGGGGGGGGGGGGGGGGGGGGBGJ^!&@@@@@@@@@@@@#^                                     :Y@@@@@@&~                        YBGGGGGGGGGGGGGGGG7  
+  :5GGGGGGGGGGGGGGGGG!                        ^G@@@@@@G!      .!5BBGGGGGGGGGGGGGGGGGGGBGY^:J&@@@@@@@@@@@@@@#7.                                 .?#@@@@@@G^                        !GGGGGGGGGGGGGGGGG5:  
+   7GGGGGGGGGGGGGGGGGP^                        .J&@@@@@@G!.  !5GBGGGGGGGGGGGGGGGGGGGBGY~^J#@@@@@@@@@@@@@@@@@@B7.                             :7B@@@@@@&J.                        :PGGGGGGGGGGGGGGGGG7   
+   .YGBGGGGGGGGGGGGGGBY.                         ^5&@@@@@@G?YGGGGGGGGGGGGGGGGGGGGGGG5??5&@@@@@@@@@@@@@@@@@@@@@@#5!:                       .^Y#@@@@@@&5^                         .YBGGGGGGGGGGGGGGBGY.   
+    ^PGGGGGGGGGGGGGGBGBJ                           ~5&@@&&#BBGGGGGGGGGGGGGGGGGGGGGBGG#@@@@@@@@@@@@@@@@@@@@@@@@@@@@#P?~:                .~JG&@@@@@@&5~                           JBBGGGGGGGGGGGGGGGP^    
+     7GGGGGGGGGGGGGGGGGB?.                           :JB#BGGGGGGGGGGGGGGGGGGGGGGB#&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#GY7^:.    .:^~JP#@@@@@@@@BJ:                            ?BGGGGGGGGGGGGGGBGG7     
+     .JGBGGGGGGGGGGGGGGBG?                           :?GBGGGGGGGGGGGGGGGGGGGGGB#&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&BBGGGB#&@@@@@@@@@@G!.                            .?BGGGGGGGGGGGGGGGGGJ.     
+      :YGGGGGGGGGGGGGGGGGB?                        ^JGBGGGGGGGGGGGGGGGGGGGGGB#&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@B!.                              ?BGGGGGGGGGGGGGGGBGY.      
+       :5GGGGGGGGGGGGGGGGBBJ.                    :?GBBGGGGGGGGGGGGGGGGGGGGB#&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@5.                              .?GGBGGGGGGGGGGGGGGG5:       
+        :5GGGGGGGGGGGGGGGGGGY:                 :?PGGGGGGGGGGGGGGGGGGGGGGB#&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Y                               :YBGGGGGGGGGGGGGGGGG5:        
+         ^YGGGGGGGGGGGGGGGGGGP~              :7PBBGGGGGGGGGGGGGGGGGGGGG#&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&?                               ^PGGGGGGGGGGGGGGGGGG5^         
+          :YGGGGGGGGGGGGGGGGGGG?.          .7PBBGGGGGGGGGGGGGGGGGGGGGB&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#~                              .?GBGGGGGGGGGGGGGGGGGY:          
+           :JGBGGGGGGGGGGGGGGGGB5~       .!PBGGBGGGGGGGGGGGGGGGGGBBB&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@P:                              ^5BGGGGGGGGGGGGGGGGBGJ:           
+            .?GGGGGGGGGGGGGGGGGGBG?: . .!5BBGGGGGGGGGGGGGGGGGGGGGYJ&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&?                              .?GBGGGGGGGGGGGGGGGGGG?.            
+              !PGBGGGGGGGGGGGGGGGGBP!.~5BBGGGGGGGGGGGGGGGGGGGGB5~. ~G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@G~                             .!PBGGGGGGGGGGGGGGGGBGP!              
+               ^YGGGGGGGGGGGGGGGGGGBGPGBGGGGGGGGGGGGGGGGGGGBBP!.    .?&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&?.                            .~5GGGGGGGGGGGGGGGGGGGGY^               
+                .7PGGGGGGGGGGGGGGGGGGBBGGGGGGGGGGGGGGGGGGGGP7.        ^5@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@5^                             ~YGBGGGGGGGGGGGGGGGGGGP?.                
+                  ~YGBGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGBP7.            !G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@G!                            .!YGBGGGGGGGGGGGGGGGGGGGY~                  
+                   :7PGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGBBP?:                7B@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@B7.                           :75BBGGGGGGGGGGGGGGGGGGGP7.                   
+                     ^JPGGGGGGGGGGGGGGGGGGGGGGGGGGGGBG?:                   .7B@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@B7.                          .^?PBBGGGGGGGGGGGGGGGGGBGGJ^                     
+                       ~YGGGGGGGGGGGGGGGGGGGGGGGGGBG?:                       .!P@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&G7.                          :7YGBBGGGGGGGGGGGGGGGGGGBGY~                       
+                        .~YGGGGGGGGGGGGGGGGGGGGGGGG5!:                          ~5&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&5~                          :!YGBBGGGGGGGGGGGGGGGGGGGGGY!.                        
+                          .!YGBGGGGGGGGGGGGGGGGGGGGGBGY7:.                        :7G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&G?:                         ^7YGBBGGGGGGGGGGGGGGGGGGGBBG5!.                          
+                            .~YGGGGGGGGGGGGGGGGGGGGGGBBGG5?~:                        ^JG&@@@@@@@@@@@@@@@@@@@@@@&GJ^.                       :~?5GBBGGGGGGGGGGGGGGGGGGGGGGGY!:                            
+                              .^JPGGGGGGGGGGGGGGGGGGGGGGGGBBGY?~:.                      ^75B&@@@@@@@@@@@@@@&B57^                      .:~?YPGGBGGGGGGGGGGGGGGGGGGGGBGGPJ~.                              
+                                 :75GGBGBGGGGGGGGGGGGGGGGGGBGGBBG5J7~:.                    .:!?5GB####BG5J!:.                    .:^!J5GBBBBGGGGGGGGGGGGGGGGGGGGGGGG57:                                 
+                                   .~JPGGGGGGGGGGGGGGGGGGGGGGGGGBBGBGP5J7~^:.                     ....                     .:^!?Y5GGBBBGGGGGGGGGGGGGGGGGGGGGGGGGGPJ~.                                   
+                                      :!YPBBGGGGGGGGGGGGGGGGGGGGGGGGGGBBBBGGPYJ7!~^:..                            ..:^~!7JYPGGBBBBBGGGGGGGGGGGGGGGGGGGGGGGBBGGPY!:                                      
+                                        .^7YPGGGGGGGGGGGGGGGGGGGGGGGGGGGGGBBBBBBBBGGP55YJ?777!!!~~~~~~~~~!!77?JJYY5PGGBBBBBBBGGGGGGGGGGGGGGGGGGGGGGGGGGBBBGPY!^.                                        
+                                            :!JPGBBGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGBGGGGGGGBBBBBBBBBBBBBBBBBBBBBBBBBBBBBGGGGGGGGGGGGGGGGGGGGGGGGGGGGGBBBGGPJ!:.                                           
+                                               .~?5PGBGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGBGGGP5?~:                                               
+                                                  .:!?YPGGBGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGBBGP5?!:.                                                  
+                                                      .:~?YPGBBGBBGGBGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGBGBBGGG5Y?~^.                                                      
+                                                           :^!?YPGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGBBBBGGGGPY?!^:                                                           
+                                                                .:~7?Y5PGGBBBBBBBGGGBGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGBBBBBBGGGBGGP5YJ7~^.                                                                
+                                                                      .:^~!?JY5PPGGGGGGGGGGGGGGGGGGGBBGBGGBBBBBBBBBGGGGPP5YJ?7~^..                                                                      
+                                                                             ..::^~!7??JYY555PPPGGGGGGGGPPPPP55YJ??7!~^::..                                                                             

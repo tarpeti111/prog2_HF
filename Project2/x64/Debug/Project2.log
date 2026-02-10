@@ -1,0 +1,40 @@
+﻿  Base.cpp
+C:\Users\tarpe\Downloads\JK42GI_NHF (2)\Project2\Base.cpp(249,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tarpe\Downloads\JK42GI_NHF (2)\Project2\Base.cpp(268,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tarpe\Downloads\JK42GI_NHF (2)\Project2\Base.cpp(288,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tarpe\Downloads\JK42GI_NHF (2)\Project2\Base.cpp(292,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tarpe\Downloads\JK42GI_NHF (2)\Project2\Base.cpp(307,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  EventHandler.cpp
+C:\Users\tarpe\Downloads\JK42GI_NHF (2)\Project2\EventHandler.cpp(15,76): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tarpe\Downloads\JK42GI_NHF (2)\Project2\EventHandler.cpp(64,76): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tarpe\Downloads\JK42GI_NHF (2)\Project2\EventHandler.cpp(110,79): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tarpe\Downloads\JK42GI_NHF (2)\Project2\EventHandler.cpp(135,80): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tarpe\Downloads\JK42GI_NHF (2)\Project2\EventHandler.cpp(211,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  FileManager.cpp
+C:\Users\tarpe\Downloads\JK42GI_NHF (2)\Project2\FileManager.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Invasion.cpp
+C:\Users\tarpe\Downloads\JK42GI_NHF (2)\Project2\Invasion.cpp(43,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tarpe\Downloads\JK42GI_NHF (2)\Project2\Invasion.cpp(96,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+C:\Users\tarpe\Downloads\JK42GI_NHF (2)\Project2\Handler.cpp(143,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\tarpe\Downloads\JK42GI_NHF (2)\Project2\Handler.cpp(289,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\tarpe\Downloads\JK42GI_NHF (2)\Project2\Handler.cpp(290,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\tarpe\Downloads\JK42GI_NHF (2)\Project2\Handler.cpp(294,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Person.cpp
+  randnum.cpp
+C:\Users\tarpe\Downloads\JK42GI_NHF (2)\Project2\randnum.cpp(5,92): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+C:\Users\tarpe\Downloads\JK42GI_NHF (2)\Project2\randnum.cpp(5,92): warning C4244:         with
+C:\Users\tarpe\Downloads\JK42GI_NHF (2)\Project2\randnum.cpp(5,92): warning C4244:         [
+C:\Users\tarpe\Downloads\JK42GI_NHF (2)\Project2\randnum.cpp(5,92): warning C4244:             _Rep=__int64
+C:\Users\tarpe\Downloads\JK42GI_NHF (2)\Project2\randnum.cpp(5,92): warning C4244:         ]
+  Room.cpp
+  Generating Code...
+  Project2.vcxproj -> C:\Users\tarpe\Downloads\JK42GI_NHF (2)\x64\Debug\Project2.exe

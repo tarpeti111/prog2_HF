@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Base">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hIAEwAAAwKAAAaAAABIAEEAhJAQgAAAAIIAAAACgRgg=</HashCode>
+      <FileName>Base.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="badRoom" />
+      <Field Name="badPerson" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EventHandler">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAACAAAAAhAAAAAAAACQAAAIAAIIAAAAAABIA=</HashCode>
+      <FileName>EventHandler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileManager">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>FileManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Handler">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABCAAAAAEQIgQCAAAAAAIAACAAIAAAAIAAAAAAAAEQ=</HashCode>
+      <FileName>Handler.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="base" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Invasion">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACBAAAAAAAAAQAAAAAIAAAIAAAgAAAAAQAAIIAAgAQQ=</HashCode>
+      <FileName>Invasion.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="base" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Person">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AoAAAEAACCIgQACCEAAAAgAAAAAEAAAAAAAEAAMAggA=</HashCode>
+      <FileName>Person.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Room">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgwEACAABCIAAAAEABAAAAAAAQQFAAAAAAIEAAAAAgA=</HashCode>
+      <FileName>Room.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="randNum">
+    <Position X="11.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>randnum.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="__unnamed_enum_0410_1">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAACAAAAACACBAAIAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Room.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
